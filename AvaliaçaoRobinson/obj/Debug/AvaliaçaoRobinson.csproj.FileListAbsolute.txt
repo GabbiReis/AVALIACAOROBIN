@@ -1,0 +1,8 @@
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\AvaliaçaoRobinson\bin\Debug\AvaliaçaoRobinson.exe.config
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\AvaliaçaoRobinson\bin\Debug\AvaliaçaoRobinson.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\AvaliaçaoRobinson\bin\Debug\AvaliaçaoRobinson.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\AvaliaçaoRobinson\obj\Debug\AvaliaçaoRobinson.csproj.AssemblyReference.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\AvaliaçaoRobinson\obj\Debug\AvaliaçaoRobinson.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\AvaliaçaoRobinson\obj\Debug\AvaliaçaoRobinson.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\AvaliaçaoRobinson\obj\Debug\AvaliaçaoRobinson.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\AvaliaçaoRobinson\obj\Debug\AvaliaçaoRobinson.pdb

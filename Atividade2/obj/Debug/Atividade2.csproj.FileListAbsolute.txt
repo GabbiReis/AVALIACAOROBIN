@@ -1,0 +1,8 @@
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\Atividade2\bin\Debug\Atividade2.exe.config
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\Atividade2\bin\Debug\Atividade2.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\Atividade2\bin\Debug\Atividade2.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\Atividade2\obj\Debug\Atividade2.csproj.AssemblyReference.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\Atividade2\obj\Debug\Atividade2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\Atividade2\obj\Debug\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\Atividade2\obj\Debug\Atividade2.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\AvaliaçaoRobinson\Atividade2\obj\Debug\Atividade2.pdb
